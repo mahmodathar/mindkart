@@ -1,0 +1,10 @@
+.list-group a:hover{
+    background: rgba(0,0,0,0.03);
+}
+a{
+    color:#70d701;
+    font-weight: 500;
+}
+.list-group a{
+    text-decoration: none;
+}
