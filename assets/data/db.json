@@ -1,0 +1,119 @@
+{
+  "product": [
+    {
+      "id": 1,
+      "productName": "Silk Zone Women's Banarasi Silk Saree With Blouse",
+      "categoryId": 1,
+      "descriptions": "Care Instructions: Machine wash Color Name: Multi-coloured Material: Silk With blouse piece Machine wash 6 yards",
+      "price": 999,
+      "is_available": true,
+      "productImg": "http://localhost:4200/assets/saree.jpg",
+      "rating": 5,
+      "review": 100,
+      "vender_name": "Wedding colletions",
+      "warenty": 0
+    },
+    {
+      "id": 2,
+      "productName": "Life Roads Cotton Men's Casual Slim Fit Shirt",
+      "categoryId": 2,
+      "descriptions": "PREMIUM COTTON FABRIC Regular spread collar with Contrast Piping Full Button Placket with Curved Hem Full Sleeve With Patch Pocket ",
+      "price": 629.00,
+      "is_available": true,
+      "productImg": "http://localhost:4200/assets/shirt.jpg",
+      "rating": 3,
+      "review": 150,
+      "vendor_name": "abc shop",
+      "waranty": 1
+    },
+    {
+      "id": 3,
+      "productName": "Silk Kurta Pyjama With Nehru Jacket Set",
+      "categoryId": 4,
+      "descriptions": "Care Instructions: Dry Clean Color:Dupion Silk Occassion: Wedding, Party,Festival Set Content: 3 Kurta Pyjama With Nehru Jacket Set",
+      "price": 1599,
+      "is_available": true,
+      "productImg": "http://localhost:4200/assets/kides.jpg",
+      "rating": 3,
+      "review": 120,
+      "vendor_name": "ayx shop",
+      "waranty": 1
+    },
+    {
+      "id": 4,
+      "productName": "Samsung Galaxy M02s",
+      "categoryId": 3,
+      "descriptions": "13MP+2MP+2MP Triple rear camera setup-13MP (F2.2) main camera + 2MP (F2.4) depth camera + 2MP (2.4) Macro Camera| 5MP (F2.2) front camera",
+      "price": 15990,
+      "is_available": true,
+      "productImg": "http://localhost:4200/assets/mobile.jpg",
+      "rating": 5,
+      "review": 120,
+      "vendor_name": "shopy shop",
+      "waranty": 1
+    },
+    {
+      "id": 5,
+      "productName": "Watamate Turbo+ Wireless Automatic Water Dispenser Pump",
+      "categoryId": 6,
+      "descriptions": "2x SPEED: Doubles the speed of water dispensing with DuoPower motor POWER: Rechargeable 1200mAh lithium battery works during powercut. Charge battery.",
+      "price": 1299,
+      "is_available": true,
+      "productImg": "http://localhost:4200/assets/water.jpg",
+      "rating": 4,
+      "review": 150,
+      "vender_name": "abc shop",
+      "waranty:": 1
+    },
+    {
+      "id": 6,
+      "productName": "IFB 6 kg 5 Star Fully-Automatic Front Loading Washing Machine",
+      "categoryId": 7,
+      "descriptions": "Fully-automatic front load washing machine: Best Wash Quality, Energy and Water efficient Capacity 6 kg :Suitable for bachelors & couples",
+      "price": 1000,
+      "is_available": true,
+      "productImg": "http://localhost:4200/assets/washing-mashin.jpg",
+      "rating": 5,
+      "review": 120,
+      "vendor_name": "shopee shop",
+      "waranty": 1
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "categoryName": "Men"
+    },
+    {
+      "id": 2,
+      "categoryName": "Women"
+    },
+    {
+      "id": 3,
+      "categoryName": "Kid's Wear"
+    },
+    {
+      "id": 4,
+      "categoryName": "Electronics"
+    },
+    {
+      "id": 5,
+      "categoryName": "Home & Furniture"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "Some Comment",
+      "postId": 1
+    },
+    {
+      "id": 2,
+      "body": "Some Comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
